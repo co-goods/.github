@@ -6,11 +6,18 @@ its own.
 
 ## Contents
 
+Present today:
+
+- `cla/` — the contributor license agreement: `cla-v1.md` (the agreement) and `README.md` (overview + how to sign)
+- `CLA-SIGNATURES.md` — the signature ledger
+- `PULL_REQUEST_TEMPLATE.md` — the org-wide default pull-request template
+
+Planned:
+
 - `profile/README.md` — the public Co-Goods org profile (shown on the org page)
 - `CONTRIBUTING.md` — default contribution guide
 - `CODE_OF_CONDUCT.md` — community standards
-- CLA — the versioned contributor license agreement (`cla-v1.md`, …)
-- Issue / pull-request templates
+- Issue templates
 
 Repo-specific overrides live in that repo's own `.github/` folder.
 
