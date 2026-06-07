@@ -55,4 +55,5 @@ planned.
 
 By adding your entry to [`CLA-SIGNATURES.md`](../CLA-SIGNATURES.md) in a pull
 request, or by signing via our CLA assistant on your pull request, you agree to
-this Agreement (v1) for your contributions to Co-Goods.
+this Agreement (v1) for your contributions to Co-Goods. See the [signing
+guide](./README.md#how-to-sign) for step-by-step instructions.
