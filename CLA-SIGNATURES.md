@@ -10,3 +10,4 @@ To sign: add a row below in your pull request — see the [signing guide](./cla/
 | Name | GitHub | CLA version | Date |
 |------|--------|-------------|------|
 | Pontus Karlsson | @pontuskarlsson | v1 | 2026-06-03 |
+| Alice Karlsson | @alicekarlsson | v1 | 2026-06-09 |
