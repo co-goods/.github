@@ -11,3 +11,4 @@ To sign: add a row below in your pull request — see the [signing guide](./cla/
 |------|--------|-------------|------|
 | Pontus Karlsson | @pontuskarlsson | v1 | 2026-06-03 |
 | Alice Karlsson | @alicekarlsson | v1 | 2026-06-09 |
+| Johan Sigurdson | @johansigurdson | v1 | 2026-06-16 |
